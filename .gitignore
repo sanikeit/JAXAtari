@@ -10,3 +10,9 @@ results/
 docs/build/
 .python-version
 
+*.mp4
+*.gif
+*.png
+__pycache__/
+.venv/
+*.pyc
