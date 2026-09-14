@@ -15,6 +15,7 @@ only the representation adapter is new.
 Run:
     uv run python project/experiments/run_bankheist.py
 """
+# Tier 3: Bank Heist waypoint controller + collision-accurate grid (partial actuation)
 import sys, os, heapq
 import jax, jax.numpy as jnp, numpy as np
 
