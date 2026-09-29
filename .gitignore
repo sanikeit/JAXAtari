@@ -16,3 +16,5 @@ docs/build/
 __pycache__/
 .venv/
 *.pyc
+*.npz
+*.pkl
